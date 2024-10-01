@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS for background image */
+.App {
+  background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zMDktYWRqLTE0LmpwZw.jpg");
+  background-size: cover; /* Ensure the image covers the full background */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent repetition of the background */
+}
