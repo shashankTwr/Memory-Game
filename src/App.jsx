@@ -2,7 +2,7 @@ import "./App.css";
 import { v4 as uuidv4 } from "uuid";
 import waifuJSONData from "./data/data.json";
 import CardList from "./Components/CardList";
-import Layout from "./Components/Layout.JSX";
+import Layout from "./Components/Layout.jsx";
 import { useState } from "react";
 import getRandom from "./Components/RandomNumber";
 
