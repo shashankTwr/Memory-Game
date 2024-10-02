@@ -12,3 +12,8 @@
 - [ ] Style Cards better
 - [ ] Create a difficulty view for the Game and change number of cards to be shown on that Basis
 - [ ] Perform State management using Redux/Zustand
+
+
+## Power and how to do
+
+- [ ] 
